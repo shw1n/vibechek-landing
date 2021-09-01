@@ -37,8 +37,13 @@
 $theme-primary: #79146E;
 $theme-dark: #222;
 
+img #logo {
+    width:10%;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
-        "base"
+        "base",
+        "custom"
 ;
