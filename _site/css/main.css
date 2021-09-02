@@ -122,6 +122,6 @@ img::-moz-selection { color: white; background: transparent; }
 
 body { -webkit-tap-highlight-color: #222; }
 
-#logo { width: 60%; }
+#logo { width: 60%; padding-top: 50px; padding-bottom: 120px; }
 
 /*# sourceMappingURL=main.css.map */
